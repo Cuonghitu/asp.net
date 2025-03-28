@@ -1,0 +1,6 @@
+@DinhQuocCuong_2122110550_HostAddress = http://localhost:5181
+
+GET {{DinhQuocCuong_2122110550_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

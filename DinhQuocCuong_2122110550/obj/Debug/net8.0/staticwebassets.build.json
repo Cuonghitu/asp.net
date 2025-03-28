@@ -1,12 +1,20 @@
 {
   "Version": 1,
-  "Hash": "Kn5URu6KDAB13k6NucB1q3XImpo1AapHFVBwJ4kNK+I=",
+  "Hash": "nguwDWrlrBA8fqvkwaNRkXF3vfdx2IQHKNsXmx3jMnY=",
   "Source": "DinhQuocCuong_2122110550",
   "BasePath": "_content/DinhQuocCuong_2122110550",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DinhQuocCuong_2122110550\\wwwroot",
+      "Source": "DinhQuocCuong_2122110550",
+      "ContentRoot": "D:\\ASP.net\\DinhQuocCuong_2122110550\\DinhQuocCuong_2122110550\\wwwroot\\",
+      "BasePath": "_content/DinhQuocCuong_2122110550",
+      "Pattern": "**"
+    }
+  ],
   "Assets": [],
   "Endpoints": []
 }
